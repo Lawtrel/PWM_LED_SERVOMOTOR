@@ -11,7 +11,7 @@ Este projeto utiliza um Raspberry Pi Pico W para controlar um servo motor. O obj
 - Ambiente de desenvolvimento MicroPython (Thonny ou similar)
 
 ## Video
-
+https://youtube.com/shorts/Oc6WtT3CsmM
 ## Instalação
 
 1. Conecte o Raspberry Pi Pico W ao seu computador.
